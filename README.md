@@ -128,8 +128,7 @@ Here are some ideas to get you started:
 <h3 align="left"> 🎧 “Without music, life would be a mistake”</h3>
 
 <a href="https://embed.music.apple.com/cn/playlist/favorite/pl.u-BNA6YaXt1ldKjYg?l=en-GB" target="_blank" style="display: flex;">
-    <img src="./.assets/apple-music.svg" alt="apple music" width="30" height="30"/> 
-    <p style="padding: 10px; line-height: 0.7;">Favorite Playlist</p>
+    <img src="./.assets/apple-music.svg" alt="apple music" width="30" height="30"/>&nbsp;-&nbsp;Favorite Playlist
 </a>
 
 ---
@@ -138,11 +137,14 @@ Here are some ideas to get you started:
 
 <!-- GitHub -->
 <a href="https://github.com/github-cooper" target="_blank" style="display: flex;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="30" height="30"/>
-    <p style="padding: 10px; line-height: 0.7;">GitHub</p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="30" height="30"/>&nbsp;-&nbsp;GitHub 
 </a>
 <!-- Website -->
 <a href="https://github-cooper.github.io/" target="_blank" style="display: flex;">
-    <img src="./.assets/logo_transparent.png" alt="github" width="30" height="30"/>
-    <p style="padding: 10px; line-height: 0.7;">Cooper Press</p>
+    <img src="./.assets/logo_transparent.png" alt="github" width="30" height="30"/> &nbsp;-&nbsp;Cooper Press 
 </a>
+
+---
+
+<!-- Gmail -->
+[![Gmail](https://img.shields.io/badge/Gmail-wh479058251@gmail.com-blue?style=social&logo=gmail)](mailto:wh479058251@gmail.com)
