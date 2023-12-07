@@ -13,15 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![logo](./.assets/github-profile-cover.svg)
+<h3 align="left"> 👋 "Hi there, I'm Cooper, welcome to my GitHub!"</h3>
 
-### 👋 "Hi there, I'm Cooper, welcome to my GitHub!"
+<div align="center">
+    <img src="./.assets/github-profile-cover.svg" /> 
+</div>
 
-### 🎧 “Without music, life would be a mistake.”
+---
 
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/cn/playlist/favorite/pl.u-BNA6YaXt1ldKjYg?l=en-GB"></iframe>
-
-<h3 align="left"> 🛠️ Technologies and Tools:</h3>
+<h3 align="left"> 🛠️ Technologies and Tools</h3>
 <div align="left">
     <!-- MacOS -->
     <a href="https://www.apple.com/macos/" target="_blank">
@@ -121,3 +121,28 @@ Here are some ideas to get you started:
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="30" height="30" />
     </a>
 </div>
+
+
+---
+
+<h3 align="left"> 🎧 “Without music, life would be a mistake”</h3>
+
+<a href="https://embed.music.apple.com/cn/playlist/favorite/pl.u-BNA6YaXt1ldKjYg?l=en-GB" target="_blank" style="display: flex;">
+    <img src="./.assets/apple-music.svg" alt="apple music" width="30" height="30"/> 
+    <p style="padding: 10px; line-height: 0.7;">Favorite Playlist</p>
+</a>
+
+---
+
+<h3 align="left"> 🧑🏻‍💻 “About me”</h3>
+
+<!-- GitHub -->
+<a href="https://github.com/github-cooper" target="_blank" style="display: flex;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="30" height="30"/>
+    <p style="padding: 10px; line-height: 0.7;">GitHub</p>
+</a>
+<!-- Website -->
+<a href="https://github-cooper.github.io/" target="_blank" style="display: flex;">
+    <img src="./.assets/logo_transparent.png" alt="github" width="30" height="30"/>
+    <p style="padding: 10px; line-height: 0.7;">Cooper Press</p>
+</a>
