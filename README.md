@@ -128,7 +128,7 @@ Here are some ideas to get you started:
 <h3 align="left"> 🎧 “Without music, life would be a mistake”</h3>
 
 <a href="https://embed.music.apple.com/cn/playlist/favorite/pl.u-BNA6YaXt1ldKjYg?l=en-GB" target="_blank" style="display: flex;">
-    <img src="./.assets/apple-music.svg" alt="apple music" width="30" height="30"/>&nbsp;-&nbsp;Favorite Playlist
+    <img src="./.assets/apple-music.svg" alt="apple music" width="16" height="16"/>&nbsp;-&nbsp;Favorite Playlist
 </a>
 
 ---
@@ -137,11 +137,12 @@ Here are some ideas to get you started:
 
 <!-- GitHub -->
 <a href="https://github.com/github-cooper" target="_blank" style="display: flex;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="30" height="30"/>&nbsp;-&nbsp;GitHub 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="20" height="20"/>&nbsp;-&nbsp;GitHub 
 </a>
+<br>
 <!-- Website -->
 <a href="https://github-cooper.github.io/" target="_blank" style="display: flex;">
-    <img src="./.assets/logo_transparent.png" alt="github" width="30" height="30"/> &nbsp;-&nbsp;Cooper Press 
+    <img src="./.assets/logo_transparent.png" alt="github" width="20" height="20"/>&nbsp;-&nbsp;Cooper Press 
 </a>
 
 ---
